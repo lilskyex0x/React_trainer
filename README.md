@@ -1,11 +1,8 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="logo-removebg.png" alt="logo" width="500"  height="auto" />
+  <img src="logo-removebg.png" alt="logo" width="250"  height="auto" />
   <br/>
-
-  <h3><b>React Trainer</b></h3>
-
 </div>
 
 # 📗 Table of Contents
